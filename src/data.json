@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "Jenny Chan",
+      "designation": "Associate Engineer",
+      "status": "Inactive",
+      "email": "jenny.chan@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Jessica warren",
+      "designation": " UI Developer",
+      "status": "Active",
+      "email": "jessica.warren@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Tony Frank",
+      "designation": "Software Engineer",
+      "status": "Inactive",
+      "email": "tony.frank@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Jeremy Clark",
+      "designation": "Java developer",
+      "status": "Active",
+      "email": "jeremy.clark@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Raymond Edwards",
+      "designation": "Data Analyst",
+      "status": "Active",
+      "email": "raymon.edwards@email.com"
+    }
+  ]

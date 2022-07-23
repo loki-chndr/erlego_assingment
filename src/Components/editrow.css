@@ -1,0 +1,31 @@
+tr td input
+{
+    padding: 5px;
+    border-radius: 12px;
+    font-size: 25px;
+    height: 35px;
+    border: none;
+    outline: none;
+}
+.button-3
+{
+    border-radius: 25px;
+    width: 80px;
+    border: none;
+    height: 35px;
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+    background-color: chartreuse;
+}
+.button-4
+{
+    border-radius: 25px;
+    width: 80px;
+    border: none;
+    height: 35px;
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+    background-color:tomato;
+}

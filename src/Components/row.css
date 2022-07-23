@@ -1,0 +1,33 @@
+.button1
+{
+    border-radius: 25px;
+    width: 80px;
+    background-color:rgb(47, 136, 225);
+    border: none;
+    height: 35px;
+    color: white;
+    transition: 1.2s all;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.button1:hover
+{
+    color: black;
+    background-color: white;
+}
+.button2
+{
+    color: white;
+    background-color: red;
+    border-radius: 25px;
+    font-size: 20px;
+    margin-top: 10px;
+    border: none;
+    height: 35px;
+    width: 80px;
+    transition: 1.2s all;
+}
+.button2:hover
+{
+    background-color: darkred;
+}
